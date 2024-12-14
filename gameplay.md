@@ -11,11 +11,11 @@
 
 ### Day 1 - 50
 
-Just do your best to survive until you can start rewinding. When you do your first rewind, you lose all money and stats. You do this to gain elixir and start unlocking skills. If you're going to open an early game weapon crate, when you do your first reset isn't a terrible day to open one.
+Just do your best to survive until you can start rewinding. When you do your first rewind, you lose all money and stats. You do this to gain elixir and start unlocking skills. If you're going to open an early game weapon crate, when you do your first rewind isn't a terrible day to open one.
 
 ### Day 51 - 300
 
-Focus on unlocking Elixir Mastery, Time Jump, Deja Vu. Once those are unlocked, put most of your elixir into Elixir Master when you reset. In the late game, you'll want Elixir Mastery to be at 2x-3x your next highest skill.
+Focus on unlocking Elixir Mastery, Time Jump, Deja Vu. Once those are unlocked, put most of your elixir into Elixir Master when you rewind. In the late game, you'll want Elixir Mastery to be at 2x-3x your next highest skill.
 
 ### Day 301 - Day 1000
 
