@@ -24,9 +24,3 @@ Around day 300 you can finally farm Fossils fast enough to be worth buying a Cal
 ### Day 1000+
 
 See a [better guide](https://docs.google.com/document/d/1ZBD3OQuU0kuBt3L-s7zq__QWxjnge1meVs5B_nke9nM/edit?tab=t.0).
-
-## Early game ignorables
-
-- Spells become irrelevant pretty fast unless you farm caster equipment/runes.
-- Equipment from low tier Hunts doesn't do much and isn't worth upgrading.
-- Runes are too expensive to farm and do too little early game to be worth farming.
