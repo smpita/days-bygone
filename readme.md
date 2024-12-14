@@ -1,5 +1,7 @@
 [Gameplay](gameplay.md)
+
 [Currencies](currencies.md)
+
 [Skills](skills.md)
 
 ## Early game ignorables
