@@ -11,15 +11,15 @@
 
 ### Day 1 - 50
 
-Just do your best to survive until you can start rewinding. When you do your first rewind, you lose all money and stats. You do this to gain elixir and start unlocking skills. If you're going to open an early game weapon crate, when you do your first rewind isn't a terrible day to open one.
+Just do your best to survive until you can start rewinding. This may involve losing a level and using the gold from that level to get stronger. When you do your first rewind, you lose all money and stats. You do this to gain elixir and start unlocking skills. If you're going to open an early game weapon crate, when you do your first rewind isn't a terrible day to open one.
 
 ### Day 51 - 300
 
-Focus on unlocking Elixir Mastery, Time Jump, Deja Vu. Once those are unlocked, put most of your elixir into Elixir Master when you rewind. In the late game, you'll want Elixir Mastery to be at 2x-3x your next highest skill.
+Focus on [unlocking](skills.md#general) Elixir Mastery, Time Jump, Deja Vu. Once those are unlocked, put most of your elixir into Elixir Master when you rewind. In the late game, you'll want Elixir Mastery to be at 2x-3x your next highest skill.
 
 ### Day 301 - Day 1000
 
-Around day 300 you can finally farm Fossils fast enough to be worth buying a [Caladbolg](currencies.md#fossils-bones). Buy new ones if the old one gets too underpowered on your march to day 1000. Focus on unlocking all skills during this push. When I start producing ~25m elixir per day, I do 2x rewinds to unlock the final skill. Once all skills are unlocked, you can start to [awaken them](skills.md#awakening-skills).
+Around day 300 you can finally farm [Fossils](currencies.md#fossils-bones) fast enough to be worth buying a [Caladbolg](currencies.md#fossils-bones). Buy new ones if the old one gets too underpowered on your march to day 1000. Focus on unlocking all skills during this push. When I start producing ~25m elixir per day, I do 2x rewinds to unlock the final skill. Once all skills are unlocked, you can start to [awaken them](skills.md#awakening-skills).
 
 ### Day 1000+
 
