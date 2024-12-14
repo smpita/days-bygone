@@ -5,7 +5,7 @@
 - Progress until new waves have 2x waves per day or day is hard to beat.
 - If 2x waves per day:
   - Rewind farming Time Stones until 1x wave per day.
-  - Put Elixir 3 Elixir Mastery.
+  - Put Elixir into Elixir Mastery.
 - If hard to beat
   - Rewind farming elixir to power up skills
 
