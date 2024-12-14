@@ -19,7 +19,7 @@ Focus on unlocking Elixir Mastery, Time Jump, Deja Vu. Once those are unlocked, 
 
 ### Day 301 - Day 1000
 
-Around day 300 you can finally farm Fossils fast enough to be worth buying a Caladbolg. Buy new ones if the old one gets too underpowered on your march to day 1000. Focus on unlocking all skills during this push. When I start producing ~25m elixir per day, I do 2x rewinds to unlock the final skill. Once all skills are unlocked, you can start to awaken them.
+Around day 300 you can finally farm Fossils fast enough to be worth buying a [Caladbolg](currencies.md#fossils-bones). Buy new ones if the old one gets too underpowered on your march to day 1000. Focus on unlocking all skills during this push. When I start producing ~25m elixir per day, I do 2x rewinds to unlock the final skill. Once all skills are unlocked, you can start to [awaken them](skills.md#awakening-skills).
 
 ### Day 1000+
 
