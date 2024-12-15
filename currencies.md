@@ -6,11 +6,6 @@
 - Generally speaking you want to open these using a button to open x50 which guarantees a Gold tier weapon.
 - Obtained the first time you beat a boss every 5 levels, purchased with Keys, or purchased with Fossils.
 
-#### Hero Tickets
-
-- Open these x10 at a time to guarantee at least one Purple tier hero.
-- These are very slow in the early game, but plentiful in the late game.
-
 #### Rubies
 
 - Red gems obtained from achievements, or selling crate weapons
@@ -50,7 +45,7 @@
 - Hearts obtained daily from friends list
 - Buy Rubies
 - Buy Weapon Crates
-- Eventually you will want to buy all Hero Evolutions
+- Eventually you will want to buy all [Hero Evolutions](heroes.md#hero-choices)
 
 #### Sapphire
 

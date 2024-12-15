@@ -18,6 +18,7 @@
 - The heroes have a series of pros and cons that make recommending teams difficult without knowing both the meta and which heroes were ascended
 - Before `Day 2000`, just use whoever has the most `*`s
 - After `Day 2000`, see Official Discord resources
+- Current [evolution](currencies.md#amity-hearts) order: `Paul` > `Hank` > `Fred`/`Cherry` (`Cherry` if close to day 3000) > `Greg` > `Arthur` > `Job`
 
 ### Official Discord Library
 
