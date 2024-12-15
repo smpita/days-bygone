@@ -6,6 +6,8 @@
 
 [Skills](skills.md)
 
+[Heroes](heroes.md)
+
 ## Early game ignorables
 
 - Spells become irrelevant pretty fast unless you farm caster equipment/runes (not recommended).
