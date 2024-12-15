@@ -9,3 +9,9 @@
 - Spells become irrelevant pretty fast unless you farm caster equipment/runes (not recommended).
 - Equipment from low tier (T1 - T4) Hunts doesn't do much and isn't worth upgrading.
 - Runes are too expensive to farm and do too little early game to be worth farming.
+
+##
+
+Calculator master sheet
+
+https://docs.google.com/spreadsheets/d/1ywxGQw8yLPWrfTKK8W79Z8Na8gKuuYlnj368PNIfdKQ/edit?gid=0#gid=0
