@@ -34,6 +34,9 @@
 #### Fossils (Bones)
 
 - Bones obtained in Expedition Mode
+- Surviving an easier mode is how harder modes are unlocked
+- Don't worry about farming bones until you unlock nightmare
+- Nightmare difficult drops bones the fastest, use your daily charges
 - Stock resets weekly
 - Buy Rubies
 - Buy Weapon Crates
