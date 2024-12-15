@@ -18,7 +18,30 @@
 - The heroes have a series of pros and cons that make recommending teams difficult without knowing both the meta and which heroes were ascended
 - Before `Day 2000`, just use whoever has the most `*`s
 - After `Day 2000`, see Official Discord resources
-- Current [evolution](currencies.md#amity-hearts) order: `Paul` > `Hank` > `Fred`/`Cherry` (`Cherry` if close to day 3000) > `Greg` > `Arthur` > `Job`
+- Current [evolution](currencies.md#amity-hearts) order: `Paul` > `Hank` > `Fred`/`Cherry` (`Cherry` if close to day 3000) > `Greg` > `Arthur`
+
+# Situational/Low Performing heroes
+
+These recommendations are based on a quick review of the [Book of Heroes](https://discord.com/channels/570929677732937738/1069087238949982338), my take might be wrong so take with a grain of salt.
+
+Avoid or delay spending resources on these unless you know what you're doing.
+
+### Situational
+
+- `Job` - Only consider if playing Mage style
+- `Merlin` - Mainly consider if playing Mage style
+- `Iseria` - Niche use
+- `Clarissa` - Outperformed by `Sieg`
+- `Elaine` - Outperformed by `Hank` but niche use in `Expedition mode`
+
+### Not worthwhile
+
+- `Greg` - Good early, Outperformed by many
+- `Arthur` - Good early, Outperformed by `Ophelia` or `Orsted`
+- `Zare`
+- `Pike`
+- `Cusack`
+- `Chandler`
 
 ### Official Discord Library
 
