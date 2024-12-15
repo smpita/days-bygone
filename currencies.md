@@ -29,6 +29,7 @@
 - Buy Weapon Crates (do not spend more than 5000 keys per crate)
 - Can Buy Hero Tickets (do not spend more than 5000 keys per ticket)
 - Buy Hero Catalysts (to upgrade heroes, will need lots)
+- Usually you will want to farm these when afk (Use Cloud button in Dungeon pause menu)
 
 #### Fossils (Bones)
 
