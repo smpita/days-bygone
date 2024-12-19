@@ -23,7 +23,7 @@ Around day 300 you can finally farm [Fossils](currencies.md#fossils-bones) fast 
 
 ### Day 1000 - Day 1500
 
-Day 1000 unlocks a new skill, Devastation, the ability for crits to crit. Put as much gold as you can in Devastation until it is maxed. Day 1500 is a good day to rewind farm for this goal.
+Day 1000 unlocks a new skill, Devastation, the ability for crits to crit. Put as much gold as you can in Devastation until it is maxed. Day 1500 is a good day to rewind farm for this goal. You should also try to get Nightmare difficult of the Dungeon. Try to do the 3x Nightmare charges daily as [Fossils](currencies.md#fossils-bones) drop quickly in this mode. You should start farming [Fossils](currencies.md#fossils-bones) when idle/game closed.
 
 ### Day 1500+
 
