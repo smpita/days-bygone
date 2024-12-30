@@ -27,4 +27,4 @@ Day 1000 unlocks a new skill, Devastation, the ability for crits to crit. Put as
 
 ### Day 1500+
 
-See a [better guide](https://docs.google.com/document/d/1ZBD3OQuU0kuBt3L-s7zq__QWxjnge1meVs5B_nke9nM/edit?tab=t.0).
+See a [better guide](https://bit.ly/NEW_DBG_GUIDE).
