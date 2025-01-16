@@ -6,6 +6,8 @@
 - Open these x10 at a time to guarantee at least one Purple tier hero.
 - B.C. events that occur every 5 rewinds is main source of tickets
 - These are very slow in the early game, but plentiful in the late game.
+- Gold tier heroes typically are the better but take many more catalysts and tickets to level, so do consider using low tier heroes. My best pushing team at day 4000 includes `Paul` evolved to `Saul`, `Hank` evolved to `Hank Soulbringer`, `Arthur` without his evolution, `Mikhail`, and `Roland`.
+- You'll likely want to upgrade all heroes for a hero only game mode that opens around day 4000, Fates Labyrinth so don't be afraid to level/use white/blue/purple tier heroes.
 
 ### Hero Growth
 
@@ -24,18 +26,13 @@
 
 These recommendations are based on a quick review of the [Book of Heroes](https://discord.com/channels/570929677732937738/1069087238949982338), my take might be wrong so take with a grain of salt.
 
-Avoid or delay spending resources on these unless you know what you're doing.
-
-### Situational
+Delay spending resources on these unless you know what you're doing or get to the Labyrinth.
 
 - `Job` - Only consider if playing Mage style
 - `Merlin` - Mainly consider if playing Mage style
 - `Iseria` - Niche use
 - `Clarissa` - Outperformed by `Sieg`
 - `Elaine` - Outperformed by `Hank` but niche use in `Expedition mode`
-
-### Not worthwhile
-
 - `Greg` - Good early, Outperformed by many
 - `Arthur` - Good early, Outperformed by `Ophelia` or `Orsted`
 - `Zare`
