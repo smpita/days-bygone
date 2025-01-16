@@ -14,6 +14,7 @@
 - A heroes level is not the strength of that hero but how many tickets you have for them
 - When a hero hits their "ascension level" you use [Catalysts](currencies.md#catalysts) to give them a `*`
 - You will want to `10*` most of the heroes but this isn't really relevant until `Day 2000 - 3000`
+- The branch order that you level the skills for a hero matters as it will take a long time to fill the whole tree. Refer to the [Book of Heroes](heroes.md#official-discord-library) on the official wiki or ask if you don't want to join the Discord for the optimal paths.
 
 ### Hero Choices
 
